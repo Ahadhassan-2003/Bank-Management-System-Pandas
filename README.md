@@ -3,7 +3,7 @@
 
 ## Overview
 
-DaulatPay is a simple bank management system built in Python using the Tkinter library for the graphical user interface (GUI) and Pandas for data handling. The system uses CSV files to store data for clients, accountants, and the manager, each with different levels of data accessibility.
+DaulatPay is our first semester python project which is a simple bank management system built in Python using the Tkinter library for the graphical user interface (GUI) and Pandas for data handling. The system uses CSV files to store data for clients, accountants, and the manager, each with different levels of data accessibility.
 
 ## Features
 
