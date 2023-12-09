@@ -51,3 +51,12 @@ The GUI is designed to be simple, minimalistic, and eye-catching, ensuring a use
 - The application may require additional setup for sending emails and handling OTP verification.
 
 Feel free to explore and enhance the DaulatPay Bank Management System as needed for your specific use case. If you have any questions or suggestions, please contact the project maintainers. Thank you for using DaulatPay!
+## Snapshots
+![image](https://github.com/Ahadhassan-2003/Bank-Management-System-Pandas-/assets/113128923/dc2f9c61-4f02-4870-bec4-298ab0e53992)
+![image](https://github.com/Ahadhassan-2003/Bank-Management-System-Pandas-/assets/113128923/8fe8c50a-6606-4214-9af8-6b0356951cb7)
+![image](https://github.com/Ahadhassan-2003/Bank-Management-System-Pandas-/assets/113128923/173d0f95-25d3-4173-a314-55ef3f78c33c)
+![image](https://github.com/Ahadhassan-2003/Bank-Management-System-Pandas-/assets/113128923/bafb4661-980c-410c-93dd-462d70fc3e17)
+![image](https://github.com/Ahadhassan-2003/Bank-Management-System-Pandas-/assets/113128923/89c9bda6-cbcc-4058-bb35-bc555bada334)
+![image](https://github.com/Ahadhassan-2003/Bank-Management-System-Pandas-/assets/113128923/78be13d6-dca3-49b5-afae-5ec1fe8ace04)
+
+
